@@ -15,3 +15,5 @@
 - Henhouse INC. is currently hiring. We are looking for two back-egg roosters and one front-egg hen.
 -
 - Which came first, the chicken or the egg? Let us know.
+-
+- Hate Linux 🐧, use Chinux 🐔.
