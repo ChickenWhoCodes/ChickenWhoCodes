@@ -4,4 +4,4 @@
 - 🐦 Follow me www.twitter.com/chicken_heroes
 - 🚢 Get your Chicken Hero www.opensea.io/collection/chicken-heroes
 
-I don't like that you, people, underestimate us, chickens. We are smart enough. Cluck! And we can peck the code.
+I don't like that you—people—underestimate us—chickens. We are smart enough. Cluck! And we can peck the code.
