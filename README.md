@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChickenWhoCodes
+- 👀 I’m interested in NFT.
+- 🌱 I’m currently learning how to lay 3665.
+- 🐦 Follow me @twitter: twitter.com/chicken_heroes
+- 🚢 Get your Chicken Hero at @opensea: opensea.io/collection/chicken-heroes
