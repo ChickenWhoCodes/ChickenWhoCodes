@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChickenWhoCodes, 2yo hen developer.
 - 👀 I’m interested in NFT.
 - 🌱 I’m currently learning how to lay 3665 in JS.
-- 🐦 Follow me twitter.com/chicken_heroes
-- 🚢 Get your Chicken Hero opensea.io/collection/chicken-heroes
+- 🐦 Follow me: twitter.com/chicken_heroes
+- 🚢 Get your own Chicken Hero: opensea.io/collection/chicken-heroes
 -
 - I don't like that you—people—underestimate us—chickens.
 - We are smart enough. Cluck!
